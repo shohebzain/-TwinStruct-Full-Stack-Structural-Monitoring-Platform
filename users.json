@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1774023795306,
+      "name": "Test User",
+      "email": "test@example.com",
+      "password": "$2b$10$Xh57uy4T2Me3HU4pwnrPiONoO3xKEwrjSTc2yal.5/.LH0AolcB2q",
+      "createdAt": "2026-03-20T16:23:15.306Z"
+    },
+    {
+      "id": 1774112050058,
+      "name": "Test User Three",
+      "email": "testuser3@test.com",
+      "password": "$2b$10$0He874VPYC.1jUbvYbOTD.g0J9nigFB85uZqpVaHeprsd09V4ZfWi",
+      "createdAt": "2026-03-21T16:54:10.058Z"
+    }
+  ]
+}
