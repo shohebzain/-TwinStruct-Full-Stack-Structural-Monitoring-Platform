@@ -233,19 +233,6 @@ This project demonstrates:
 
 ---
 
-# 📸 Screenshots
-
-Include screenshots of:
-
-* Home Page
-* Login Page
-* Dashboard
-* Password Strength Checker
-* Documentation
-* Chatbot
-* Mobile View
-
----
 
 # 🤝 Contributing
 
