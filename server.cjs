@@ -10,7 +10,7 @@ const DB_FILE = path.join(__dirname, 'users.json');
 
 // Middleware
 app.use(cors());
-app.use(express.json());
+app.use(express.json()); 
 
 // Initialize DB file
 function readDB() {
